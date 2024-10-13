@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RailwayBookingSystem",
+            "request": "launch",
+            "mainClass": "RailwayBookingSystem",
+            "projectName": "dbms mpr_1d8bfe6b"
+        },
+        {
+            "type": "java",
+            "name": "RailwayTicketBookingSystem",
+            "request": "launch",
+            "mainClass": "RailwayTicketBookingSystem",
+            "projectName": "dbms mpr_1d8bfe6b"
+        },
+        {
+            "type": "java",
+            "name": "TrainManagementSystem",
+            "request": "launch",
+            "mainClass": "TrainManagementSystem",
+            "projectName": "dbms mpr_1d8bfe6b"
+        },
+        {
+            "type": "java",
+            "name": "RailwayLogin",
+            "request": "launch",
+            "mainClass": "RailwayLogin",
+            "projectName": "dbms mpr_1d8bfe6b"
+        },
+        {
+            "type": "java",
+            "name": "RailwayManagementSystem",
+            "request": "launch",
+            "mainClass": "RailwayManagementSystem",
+            "projectName": "dbms mpr_1d8bfe6b"
+        },
+        {
+            "type": "java",
+            "name": "railwayManagement",
+            "request": "launch",
+            "mainClass": "railwayManagement",
+            "projectName": "dbms mpr_1d8bfe6b"
+        },
+        {
+            "type": "java",
+            "name": "railwayManagement",
+            "request": "launch",
+            "mainClass": "railwayManagement",
+            "projectName": "dbms mpr_1d8bfe6b"
+        },
+        {
+            "type": "java",
+            "name": "railwayManagement",
+            "request": "launch",
+            "mainClass": "railwayManagement",
+            "projectName": "dbms mpr_1d8bfe6b"
+        },
+        {
+            "type": "java",
+            "name": "railwayManagement",
+            "request": "launch",
+            "mainClass": "railwayManagement",
+            "projectName": "dbms mpr_1d8bfe6b"
+        }
+    ]
+}
